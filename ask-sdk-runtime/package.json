@@ -37,7 +37,7 @@
     "eslint-plugin-tsdoc": "^0.2.6",
     "mocha": "^5.0.5",
     "nock": "^9.2.3",
-    "nyc": "^14.1.1",
+    "nyc": "^15.0.0",
     "sinon": "^7.0.13",
     "ts-node": "^6.0.1",
     "typescript": "^4.9.5"
